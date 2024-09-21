@@ -1,8 +1,8 @@
-# gravity sim
+# Gravity Wells
 
 A simple gavity sim in SFML based upon Zipped's rendition with the added functionality of creating and destroying gravity sources, pausing/unpausing the sim along with resetting(clearing screen).
 
-Extemely barebones, but decently optimised can handle ~50k particles of radius 0.
+Extemely barebones, but decently optimised can handle ~50k particles of radius 07.
 
 (GUI functionality to be added, unfortunate that imgui doesn't work wth sfml, will probably have to use TGUI or other libs)
 
